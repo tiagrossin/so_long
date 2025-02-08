@@ -6,7 +6,7 @@
 /*   By: sarosa-b <sarosa-b@student.42barcelon      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/01 12:03:35 by sarosa-b          #+#    #+#             */
-/*   Updated: 2025/02/01 12:06:31 by sarosa-b         ###   ########.fr       */
+/*   Updated: 2025/02/08 13:22:13 by sarosa-b         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 # include <limits.h>
 # include <stdarg.h>  // Para ft_printf
 # include <stdio.h>   // Solo para pruebas manuales de main
+#include <stdbool.h>  // Librería de booleanos
 
 /**************************************
  *           Funciones de libft       *
