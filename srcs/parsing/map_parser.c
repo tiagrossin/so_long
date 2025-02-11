@@ -6,11 +6,11 @@
 /*   By: sarosa-b <sarosa-b@student.42barcelon      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/30 19:45:45 by sarosa-b          #+#    #+#             */
-/*   Updated: 2025/02/08 13:41:06 by sarosa-b         ###   ########.fr       */
+/*   Updated: 2025/02/10 19:22:34 by sarosa-b         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include "so_long.h"
+#include "so_long.h"
 #include "../../libft/libft.h"
 
 static bool	check_file_extension(const char *str)
